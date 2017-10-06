@@ -1,5 +1,5 @@
 # utl_power_SQL_normalization
-Demonstration of SQL over datastep arrays
+SAS data wrangling. Data mamanegement. Power of data normalization. Demonstration of SQL over datastep arrays
 
     ```  SAS Forum: Power_of_SQL_with_normalized_data;  ```
     ```    ```
